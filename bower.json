@@ -1,0 +1,21 @@
+{
+  "name": "react-express-example",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "dan tse"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "react"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

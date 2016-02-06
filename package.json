@@ -1,0 +1,26 @@
+{
+  "name": "react-express-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dannyaxa/react-express-example.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "dan tse",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannyaxa/react-express-example/issues"
+  },
+  "homepage": "https://github.com/dannyaxa/react-express-example",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4"
+  }
+}
